@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(tar *)",
+      "Bash(npm test *)",
+      "Bash(python3 *)",
+      "Bash(pip install *)",
+      "Bash(pip3 install *)",
+      "Bash(apt list *)",
+      "Bash(curl -s https://bootstrap.pypa.io/get-pip.py -o /tmp/get-pip.py)",
+      "Bash(xdg-open /workshop/2048_Game_Project_Overview.pptx)",
+      "Bash(git commit *)",
+      "Bash(gh repo *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(cp /workshop/.claude/settings.json /workshop/2048-react-game/claude-config/)",
+      "Bash(cp /workshop/.claude/settings.local.json /workshop/2048-react-game/claude-config/)",
+      "Bash(cp /workshop/.claude/commands/*.md /workshop/2048-react-game/claude-config/commands/)"
+    ]
+  }
+}
