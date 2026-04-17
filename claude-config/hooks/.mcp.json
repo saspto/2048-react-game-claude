@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cost-explorer-mcp": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "awslabs.cost-explorer-mcp-server@latest"
+      ],
+      "env": {}
+    }
+  }
+}
